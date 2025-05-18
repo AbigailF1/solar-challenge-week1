@@ -1,0 +1,10 @@
+# Virtual environments
+venv/
+__pycache__/
+
+# Jupyter & temp files
+*.ipynb_checkpoints
+*.csv
+
+# Data directory
+data/
