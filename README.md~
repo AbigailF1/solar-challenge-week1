@@ -1,10 +1,8 @@
-# Solar Challenge Week 1
+# Solar Challenge – Week 1
 
-## Setup Instructions
+Welcome to the Week 1 project for the Solar Challenge! This repository contains exploratory data analysis (EDA) of solar energy production across **Benin**, **Sierra Leone**, and **Togo**.
 
-```bash
-git clone https://github.com/AbigailF1/solar-challenge-week1
-cd solar-challenge-week1
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+---
+
+## 📁 Project Structure
+
